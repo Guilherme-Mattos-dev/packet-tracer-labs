@@ -1,0 +1,8 @@
+# Arquivos de sistema do Windows e do macOS
+Thumbs.db
+desktop.ini
+.DS_Store
+
+# Temporários
+*.tmp
+~$*
